@@ -5,7 +5,7 @@
 
 <div>
  <p>
-<h1>About me</h1>
+<h2>About me</h2 font-weight="bold">
 I am a 14 year old Computer Science & Creative iMedia Student.
 <h3>What i specialise in</h3>
 <p>
