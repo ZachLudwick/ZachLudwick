@@ -17,6 +17,10 @@ And with Web i can pretty much do anything with HTML, CSS, JS, MySQL, MongoDb an
 </h4>
 </div>
 
-<div><p>My profile,</p></div>
-
+<div class="profile">
 ![ZachLudwick's github stats](https://github-readme-stats.vercel.app/api?username=zachludwick&show_icons=true)
+</div>
+
+<style> 
+.profile {}
+</style>
